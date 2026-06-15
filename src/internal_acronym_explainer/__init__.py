@@ -1,0 +1,1 @@
+"""Internal Acronym Explainer package."""
